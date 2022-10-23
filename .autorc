@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "vineeth-th",
+  "repo": "container-xsvpvao",
+  "name": "vineeth-th",
+}
